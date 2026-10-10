@@ -1,0 +1,22 @@
+# Build output
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Editor and IDE files
+.vscode/
+.idea/
+.settings/
+*.swp
+.DS_Store
+
+# Local SD card test logs
+logs/
+*.log
