@@ -20,3 +20,5 @@ Release/
 # Local SD card test logs
 logs/
 *.log
+
+*.launch
